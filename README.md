@@ -1,2 +1,2 @@
 # PennylessTrack
-App para gestionar gastos (PPS)
+crear un script para precommit
